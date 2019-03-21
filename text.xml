@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding= "UTF-8" ?>
+<CONTACTLIST>
+<CONTACT id = 1>
+<NAME>Sebastian</NAME>
+<ADRESS>Teststr. 30</ADRESS>
+</CONTACT>
+
+<CONTACT id = 2>
+<NAME>Stefan</NAME>
+<ADRESS>Fehlerstr. 30</ADRESS>
+</CONTACT>
+ </CONTACTLIST>
